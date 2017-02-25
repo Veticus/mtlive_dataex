@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * I owe [Emil 'Skeen' Madsen](https://github.com/Skeen) a Club Mate, for helping me with the xpath.
-* I owe [Mark 'Robotto' Moore](https://github.com/Robotto)
+* I owe [Mark 'Robotto' Moore](https://github.com/Robotto). I just can't remember what for. Sry.
 * I owe JetBrains a collossal hug for allowing students the usage of their products free of charge <3
