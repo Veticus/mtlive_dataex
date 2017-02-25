@@ -10,7 +10,7 @@ __author__ = "Tim Engel"
 __date__ = "25/02/2017"
 __using__ = "PyCharm"
 __interpreter_version__ = "3.5.1"
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 #  These are just some "safe values", aimed to gather as many busses as possible.
 #  TODO: Randomize these everytime data is requested
