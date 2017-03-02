@@ -10,7 +10,7 @@ __author__ = "Tim Engel"
 __date__ = "25/02/2017"
 __using__ = "PyCharm"
 __interpreter_version__ = "3.5.1"
-__version__ = "0.0.3"
+__version__ = "0.0.4"
 
 lon = 10.031171035766636
 lat = 57.71612970581591

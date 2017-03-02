@@ -24,7 +24,7 @@ On Linux:
 python get_busdata.py
 ```
 
-CLA will be implemented at a later stage.
+Argparese, will be implemented at a later stage.
 
 ## Usage of the functions
 
