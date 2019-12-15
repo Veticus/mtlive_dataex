@@ -1,4 +1,4 @@
-**This repo is archived as, Midttrafik  no longer offer the live.midttrafik.dk site. The official statement is, that this is due to "the operational costs of the Google Maps API". The currently offered alternative is an iOS/Android app, using the OpenStreetMap API. Once my time budget allows for it, i will try to reverse the APK, and rewrite this project, based on the findings.**
+**This repo is archived as Midttrafik no longer (as of 20191118) offer the live.midttrafik.dk site. An unofficial reasoning is, that this is due to "the operational costs of the Google Maps API". The currently offered alternative is an iOS/Android app, using the OpenStreetMap API. Once my time budget allows for it, i will try to reverse the APK, and rewrite this project, based on the findings.**
 
 # mtlive-dataex
 
